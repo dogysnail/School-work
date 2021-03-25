@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/Statistics.md",
+            "file": "Math/Untitled.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Statistics.md",
+                "file": "Math/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,10 @@
   },
   "lastOpenFiles": [
     "Math/Untitled.md",
+    "Math/Statistics.md",
+    "Untitled.md",
     "Economics/Water Economics/Notes.md",
     "Economics/Water Economics/Research record.md",
-    "Economics/Water Economics/Untitled.md",
-    "Untitled.md"
+    "Economics/Water Economics/Untitled.md"
   ]
 }
