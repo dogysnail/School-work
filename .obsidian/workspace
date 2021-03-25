@@ -6,10 +6,11 @@
       {
         "id": "666cbad73cbb2cca",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DDES/Promoting a cause/Research plan.md",
+            "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
             "mode": "source"
           }
         },
@@ -18,13 +19,12 @@
       {
         "id": "326aa62b50a63bf9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "DDES/Promoting a cause/Research plan.md",
+            "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 5,
               "localBacklinks": true,
@@ -46,22 +46,29 @@
                   "query": "file:product Analysis",
                   "color": {
                     "a": 1,
-                    "rgb": 14701138
+                    "rgb": 7426784
+                  }
+                },
+                {
+                  "query": "file: promoting",
+                  "color": {
+                    "a": 1,
+                    "rgb": 11657298
                   }
                 }
               ],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -0.6,
+              "nodeSizeMultiplier": 1.61232443820225,
+              "lineSizeMultiplier": 4.42492099719101,
               "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.9843960782480504,
-              "close": false
+              "centerStrength": 0.324908088235294,
+              "repelStrength": 10.3528792134831,
+              "linkStrength": 0.769209558823529,
+              "linkDistance": 214,
+              "scale": 1.1246361597579568,
+              "close": true
             }
           }
         },
@@ -121,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDES/Promoting a cause/Research plan.md",
+                "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +145,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DDES/Promoting a cause/Research plan.md",
-    "DDES/Promoting a cause/Research questions.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 2.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 2 1.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1 1.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Untitled.md",
+    "DDES/Promoting a cause/Research/Secondary Research/Secondary Research.md",
     "DDES/Promoting a cause/Research/Product Analysis.md",
-    "DDES/Promoting a cause/Research/Untitled.md",
     "DDES/Promoting a cause/Research/Primary Research/Primary Research.md",
-    "DDES/Promoting a Cause.md",
-    "DDES/Promoting a cause/Promoting a Cause.md",
-    "DDES/Promoting a cause/Untitled.md",
-    "Research.md",
-    "DDES/Promoting a cause/Research/Secondary Research/Secondary Research.md"
+    "DDES/Promoting a cause/Research questions.md"
   ]
 }
