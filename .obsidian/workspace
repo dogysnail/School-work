@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
+            "file": "Physics/Lesson notes/25-3-2021.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
+            "file": "Physics/Lesson notes/25-3-2021.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -69,6 +69,13 @@
                     "a": 1,
                     "rgb": 5431473
                   }
+                },
+                {
+                  "query": "path:\"Physics/Lesson notes\"",
+                  "color": {
+                    "a": 1,
+                    "rgb": 1954610
+                  }
                 }
               ],
               "collapse-display": false,
@@ -81,7 +88,7 @@
               "repelStrength": 10.3528792134831,
               "linkStrength": 0.769209558823529,
               "linkDistance": 214,
-              "scale": 0.75942921554455,
+              "scale": 0.7723682919982601,
               "close": true
             }
           }
@@ -142,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
+                "file": "Physics/Lesson notes/25-3-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +166,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
-    "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change (1).md",
-    "DDES/Promoting a cause/Research/Secondary Research/Secondary Research.md",
-    "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change.md",
+    "Physics/Lesson notes/25-3-2021.md",
+    "Physics/Lesson Notes.md",
+    "Physics/Untitled.md",
+    "Physics/Waves on a string.md",
+    "Physics/Lesson notes/Untitled.md",
+    "DDES/Promoting a cause/Research questions.md",
     "DDES/Promoting a cause/Research plan.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1 (NASA).md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 3 (Nature.com).md",
+    "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change (1).md",
     "DDES/Promoting a cause/Research/Primary Research/Survey.md",
-    "DDES/Promoting a cause/Research/Primary Research/Primary Research.md"
+    "DDES/Promoting a cause/Research/Secondary Research/How we are stopping climate change (2).md"
   ]
 }
