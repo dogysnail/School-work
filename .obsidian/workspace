@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4f49e8c56475d99f",
+        "id": "666cbad73cbb2cca",
         "type": "leaf",
         "active": true,
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DDES/Promoting a cause/Research plan.md",
+            "mode": "source"
+          }
+        },
+        "group": "1daee6fa54839d60"
+      },
+      {
+        "id": "b483b395fce19950",
+        "type": "leaf",
+        "state": {
           "type": "localgraph",
           "state": {
-            "file": "Math/Statistics.md",
+            "file": "DDES/Promoting a cause/Research plan.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -33,11 +45,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.309918023152115,
+              "scale": 1,
               "close": false
             }
           }
-        }
+        },
+        "group": "1daee6fa54839d60"
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Statistics.md",
+                "file": "DDES/Promoting a cause/Research plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Math/Statistics.md",
-    "Math/Box plots.md",
+    "DDES/Promoting a cause/Research plan.md",
+    "DDES/Promoting a cause/Untitled.md",
+    "DDES/Promoting a cause/Research questions.md",
+    "DDES/Promoting a cause/Primary Research.md",
+    "DDES/Promoting a cause/monk.md",
+    "DDES/Promoting a cause/Untitled 1.md",
     "Math/Scatter Plots.md",
-    "Math/Untitled.md",
     "Math/Frequency Tables.md",
-    "Math/Stem leaf diagram.md",
-    "Untitled.md",
-    "Economics/Water Economics/Notes.md",
-    "Economics/Water Economics/Research record.md",
-    "Economics/Water Economics/Untitled.md"
+    "Math/Statistics.md",
+    "Math/Box plots.md"
   ]
 }
