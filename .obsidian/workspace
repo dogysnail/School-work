@@ -4,14 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "19a3dfb83f5d7206",
+        "id": "4f49e8c56475d99f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "localgraph",
           "state": {
-            "file": "Math/Untitled.md",
-            "mode": "source"
+            "file": "Math/Statistics.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.309918023152115,
+              "close": false
+            }
           }
         }
       }
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Untitled.md",
+                "file": "Math/Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +110,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Math/Untitled.md",
     "Math/Statistics.md",
     "Math/Box plots.md",
+    "Math/Scatter Plots.md",
+    "Math/Untitled.md",
     "Math/Frequency Tables.md",
     "Math/Stem leaf diagram.md",
     "Untitled.md",

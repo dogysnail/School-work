@@ -6,3 +6,4 @@ Different things covered in this unit
 - Frequency tables [[Frequency Tables]]
 - box plots [[Box plots]]
 - Scatter plots
+ x
