@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
+            "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
+            "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -55,6 +55,20 @@
                     "a": 1,
                     "rgb": 11657298
                   }
+                },
+                {
+                  "query": "file:survey",
+                  "color": {
+                    "a": 1,
+                    "rgb": 16646633
+                  }
+                },
+                {
+                  "query": "path:\"DDES/Promoting a cause/Research/Secondary Research\"",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431473
+                  }
                 }
               ],
               "collapse-display": false,
@@ -67,7 +81,7 @@
               "repelStrength": 10.3528792134831,
               "linkStrength": 0.769209558823529,
               "linkDistance": 214,
-              "scale": 1.1246361597579568,
+              "scale": 0.75942921554455,
               "close": true
             }
           }
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
+                "file": "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +159,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 2.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 2 1.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1 1.md",
-    "DDES/Promoting a cause/Research/Product Analysis/Untitled.md",
+    "DDES/Promoting a cause/Research/Secondary Research/Untitled.md",
+    "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change (1).md",
     "DDES/Promoting a cause/Research/Secondary Research/Secondary Research.md",
-    "DDES/Promoting a cause/Research/Product Analysis.md",
-    "DDES/Promoting a cause/Research/Primary Research/Primary Research.md",
-    "DDES/Promoting a cause/Research questions.md"
+    "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change.md",
+    "DDES/Promoting a cause/Research plan.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis.md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 1 (NASA).md",
+    "DDES/Promoting a cause/Research/Product Analysis/Product Analysis 3 (Nature.com).md",
+    "DDES/Promoting a cause/Research/Primary Research/Survey.md",
+    "DDES/Promoting a cause/Research/Primary Research/Primary Research.md"
   ]
 }
