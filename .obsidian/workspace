@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry.md",
+            "file": "Economics/Water Economics/Notes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Economics/Water Economics/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Economics/Water Economics/Notes.md",
+    "Economics/Water Economics/Research record.md",
+    "Economics/Water Economics/Untitled.md",
     "Untitled.md"
   ]
 }
