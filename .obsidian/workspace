@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Lesson notes/25-3-2021.md",
+            "file": "Physics/Waves on a string.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Physics/Lesson notes/25-3-2021.md",
+            "file": "Physics/Waves on a string.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Lesson notes/25-3-2021.md",
+                "file": "Physics/Waves on a string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +166,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Physics/Waves on a string.md",
     "Physics/Lesson notes/25-3-2021.md",
+    "waves.jpeg",
     "Physics/Lesson Notes.md",
     "Physics/Untitled.md",
-    "Physics/Waves on a string.md",
     "Physics/Lesson notes/Untitled.md",
     "DDES/Promoting a cause/Research questions.md",
     "DDES/Promoting a cause/Research plan.md",
     "DDES/Promoting a cause/Research/Secondary Research/Effects of climate change (1).md",
-    "DDES/Promoting a cause/Research/Primary Research/Survey.md",
-    "DDES/Promoting a cause/Research/Secondary Research/How we are stopping climate change (2).md"
+    "DDES/Promoting a cause/Research/Primary Research/Survey.md"
   ]
 }
