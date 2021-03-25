@@ -6,7 +6,6 @@
       {
         "id": "666cbad73cbb2cca",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,11 +13,12 @@
             "mode": "source"
           }
         },
-        "group": "1daee6fa54839d60"
+        "group": "9c9777704f6333f9"
       },
       {
-        "id": "b483b395fce19950",
+        "id": "326aa62b50a63bf9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
@@ -26,15 +26,30 @@
             "options": {
               "collapse-filter": true,
               "search": "",
-              "localJumps": 1,
+              "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
+              "showTags": true,
+              "showAttachments": true,
+              "hideUnresolved": true,
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "file:Research ",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701138
+                  }
+                },
+                {
+                  "query": "file:product Analysis",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701138
+                  }
+                }
+              ],
               "collapse-display": true,
               "showArrow": false,
               "textFadeMultiplier": 0,
@@ -45,12 +60,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 0.9843960782480504,
               "close": false
             }
           }
         },
-        "group": "1daee6fa54839d60"
+        "group": "9c9777704f6333f9"
       }
     ],
     "direction": "vertical"
@@ -124,14 +139,14 @@
   },
   "lastOpenFiles": [
     "DDES/Promoting a cause/Research plan.md",
-    "DDES/Promoting a cause/Untitled.md",
     "DDES/Promoting a cause/Research questions.md",
-    "DDES/Promoting a cause/Primary Research.md",
-    "DDES/Promoting a cause/monk.md",
-    "DDES/Promoting a cause/Untitled 1.md",
-    "Math/Scatter Plots.md",
-    "Math/Frequency Tables.md",
-    "Math/Statistics.md",
-    "Math/Box plots.md"
+    "DDES/Promoting a cause/Research/Product Analysis.md",
+    "DDES/Promoting a cause/Research/Untitled.md",
+    "DDES/Promoting a cause/Research/Primary Research/Primary Research.md",
+    "DDES/Promoting a Cause.md",
+    "DDES/Promoting a cause/Promoting a Cause.md",
+    "DDES/Promoting a cause/Untitled.md",
+    "Research.md",
+    "DDES/Promoting a cause/Research/Secondary Research/Secondary Research.md"
   ]
 }

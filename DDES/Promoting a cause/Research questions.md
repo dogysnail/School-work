@@ -21,7 +21,24 @@
 
 #### Where will i get information / recources ####
 
-1. 
+1. Online (Scholarly Articles and news websites)
+2. Online and in real life(Scholarly articles, news websites,  blogs and visting areas to see what they are doing to stop climate change)
+3. Online and in real life (Scholarly articles, news website and )
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+###### Links (ignore)
+
+[[Research plan]]
 
